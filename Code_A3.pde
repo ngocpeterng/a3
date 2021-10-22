@@ -1,6 +1,6 @@
 //Code Literacy A3
 //Birthday Cake 
-//Peter Nguyen 
+//Ngoc Peter Nguyen 
 
 int value = #f0b27a;
 int value2 = 0;
